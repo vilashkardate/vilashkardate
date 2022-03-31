@@ -1,18 +1,18 @@
-### Hi there, I'm OM KUMAR SAHU 👋
+### Hi there, I'm VILASH KARDATE 👋
 
 ## I'm a LEARNER AND A DEVLOPER!
 
-- 🔭 I’m currently working on a SEO Audit Tool!
+- 🔭 I’m currently working on a SEO Auit Tool!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing Rust and No man's sky
 
 
 <br>
 
 <p align=left>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=omkumar01&show_icons=true&theme=highcontrast">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=vilashkardate&show_icons=true&theme=highcontrast">
 </p>
 
 
@@ -73,8 +73,8 @@
 - [What is an Open Source?](https://heapoftech.live/open-source/open-source-contribution/)
 
 
-[github]: https://github.com/omkumar01
-[twitter]: https://twitter.com/thisisom1
-[instagram]: https://www.instagram.com/thisis_om_
-[linkedin]: https://linkedin.com/in/thisisom
+[github]: https://github.com/vilashkardate
+[twitter]: https://twitter.com/Vilash10671960
+[instagram]: https://www.instagram.com/___vilash___
+[linkedin]: https://www.linkedin.com/in/vilash-kardate-9869861a1
 [dead]: #
